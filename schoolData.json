@@ -1,0 +1,1432 @@
+{
+	"data": [
+        {
+			"schoolName": "成都市龙泉驿区十陵中学校",
+			"position": "104.182981,30.653647",
+			"schoolType": "初中",
+			"schoolId": "3043",
+			"showSemeterYear": "2",
+			"teacherName": "罗瑞",
+			"address": "成都市龙泉十陵街道灵龙路90号",
+			"phoneNumber": "13708193013",
+			"studentCount": "1064",
+			"testScore": {
+				"average": 76.14,
+				"excellentRate": 38,
+				"passRate": 93
+			},
+			"subjectEvaluation": {
+				"average": 89,
+				"excellentRate": 96.88,
+				"passRate": 100
+			}
+		},
+        {
+			"schoolName": "成都经济技术开发区实验小学校",
+			"position": "104.259866,30.579997",
+			"schoolType": "小学",
+			"schoolId": "2662",
+			"showSemeterYear": "1",
+			"teacherName": "田德辉",
+			"address": "成都市龙泉驿区桃源街西100米",
+			"phoneNumber": "13198551319",
+			"studentCount": "3289",
+			"testScore": {
+				"average": 77.66,
+				"excellentRate": 41,
+				"passRate": 96
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区黄土小学校",
+			"position": "104.290782,30.680659",
+			"schoolType": "小学",
+			"schoolId": "3591",
+			"showSemeterYear": "1",
+			"teacherName": "罗正泽",
+			"address": "成都市龙泉驿区洪安镇育才街2号附11号",
+			"phoneNumber": "13880551586",
+			"studentCount": "757",
+			"testScore": {
+				"average": 77.74,
+				"excellentRate": 42,
+				"passRate": 95
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区大面小学校",
+			"position": "104.197912,30.585017",
+			"schoolType": "小学",
+			"schoolId": "2692",
+			"showSemeterYear": "1",
+			"teacherName": "汪洋",
+			"address": "龙泉区八一大路68号",
+			"phoneNumber": "19949416281",
+			"studentCount": "2677",
+			"testScore": {
+				"average": 80,
+				"excellentRate": 53,
+				"passRate": 98
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区洛带小学校",
+			"position": "104.329701,30.638121",
+			"schoolType": "小学",
+			"schoolId": "3652",
+			"showSemeterYear": "1",
+			"teacherName": "肖建龙",
+			"address": "成都市龙泉驿区洛带镇八角井街155号",
+			"phoneNumber": "13402837409",
+			"studentCount": "856",
+			"testScore": {
+				"average": 81.63,
+				"excellentRate": 57,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区茶店小学校",
+			"position": "104.35437,30.50629",
+			"schoolType": "小学",
+			"schoolId": "3601",
+			"showSemeterYear": "1",
+			"teacherName": "刘波",
+			"address": "成都市龙泉驿区茶店镇茶石西路19号",
+			"phoneNumber": "13880792030",
+			"studentCount": "252",
+			"testScore": {
+				"average": 78.21,
+				"excellentRate": 0,
+				"passRate": 95
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区龙井小学校",
+			"position": "104.237688,30.62744",
+			"schoolType": "小学",
+			"schoolId": "3613",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区同安小学校",
+			"position": "104.305604,30.599429",
+			"schoolType": "小学",
+			"schoolId": "2672",
+			"showSemeterYear": "1",
+			"teacherName": "张能",
+			"address": "",
+			"phoneNumber": "18108248016",
+			"studentCount": "2835",
+			"testScore": {
+				"average": 81,
+				"excellentRate": 60,
+				"passRate": 98
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区和平小学校",
+			"position": "104.170127,30.662972",
+			"schoolType": "小学",
+			"schoolId": "3649",
+			"showSemeterYear": "1",
+			"teacherName": "苏巨龙",
+			"address": "龙泉驿区十陵镇农平路317号",
+			"phoneNumber": "13668166756",
+			"studentCount": "1388",
+			"testScore": {
+				"average": 79,
+				"excellentRate": 49,
+				"passRate": 97
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区东山国际小学",
+			"position": "104.264171,30.540571",
+			"schoolType": "小学",
+			"schoolId": "3585",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区天立小学校",
+			"position": "104.192128,30.570433",
+			"schoolType": "小学",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区黄土中学校",
+			"position": "104.289702,30.6827",
+			"schoolType": "初中",
+			"schoolId": "3038",
+			"showSemeterYear": "1",
+			"teacherName": "肖振华",
+			"address": "成都市龙泉驿区洪安镇育才街3号",
+			"phoneNumber": "13388185057",
+			"studentCount": "378",
+			"testScore": {
+				"average": 77,
+				"excellentRate": 39,
+				"passRate": 97
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区同安中学校",
+			"position": "104.301011,30.621619",
+			"schoolType": "初中",
+			"schoolId": "3563",
+			"showSemeterYear": "1",
+			"teacherName": "周婷婷",
+			"address": "成都市龙泉驿区忠北路",
+			"phoneNumber": "18981789769",
+			"studentCount": "1134",
+			"testScore": {
+				"average": 79,
+				"excellentRate": 50,
+				"passRate": 97
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "四川省成都市华川中学校",
+			"position": "104.17987,30.655952",
+			"schoolType": "初中",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "石德宝",
+			"address": "龙泉驿区十陵街道和平路336号附1号",
+			"phoneNumber": "18190902159",
+			"studentCount": "502",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区向阳桥中学",
+			"position": "104.229124,30.576112",
+			"schoolType": "初中",
+			"schoolId": "3035",
+			"showSemeterYear": "1",
+			"teacherName": "刘老师",
+			"address": "成都市龙泉驿区北泉路与长春路交叉路口往东约100米(新修向阳桥2小学西北侧约100米)",
+			"phoneNumber": "17726431358",
+			"studentCount": "400",
+			"testScore": {
+				"average": 80,
+				"excellentRate": 57,
+				"passRate": 95
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "四川省成都市龙泉第二中学",
+			"position": "104.258908,30.566457",
+			"schoolType": "完全中学",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "刘敏",
+			"address": "北泉路178号",
+			"phoneNumber": "13688190012",
+			"studentCount": "635",
+			"testScore": {
+				"average": 82,
+				"excellentRate": 68,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区新格林艺术高级中学",
+			"position": "104.162371,30.612556",
+			"schoolType": "九年一贯制",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "成都市龙泉驿区惠王陵东路109号附1号",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都经济技术开发区职业技术学校",
+			"position": "104.319775,30.615234",
+			"schoolType": "中职",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区四川师大附属上东小学",
+			"position": "104.175608,30.619278",
+			"schoolType": "小学",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "汪诚",
+			"address": "龙泉驿区洪河大道梧桐路上东阳光小区1-001号(四川师大东校区旁)",
+			"phoneNumber": "13981754211",
+			"studentCount": "1829",
+			"testScore": {
+				"average": 78,
+				"excellentRate": 41,
+				"passRate": 97
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区第二小学校",
+			"position": "104.272556,30.578313",
+			"schoolType": "小学",
+			"schoolId": "3568",
+			"showSemeterYear": "1",
+			"teacherName": "余涛",
+			"address": "成都市龙泉驿区玉岭路88号",
+			"phoneNumber": "13551135235",
+			"studentCount": "3543",
+			"testScore": {
+				"average": 82.63,
+				"excellentRate": 41,
+				"passRate": 99.46
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区土桥小学校",
+			"position": "104.215066,30.604983",
+			"schoolType": "小学",
+			"schoolId": "3564",
+			"showSemeterYear": "1",
+			"teacherName": "罗名阳",
+			"address": "",
+			"phoneNumber": "15208287435",
+			"studentCount": "502",
+			"testScore": {
+				"average": 83,
+				"excellentRate": 73,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区西平小学校",
+			"position": "104.262924,30.643737",
+			"schoolType": "小学",
+			"schoolId": "3594",
+			"showSemeterYear": "1",
+			"teacherName": "李亮",
+			"address": "成都市龙泉驿区西河镇育成街2号",
+			"phoneNumber": "13693420253",
+			"studentCount": "1079",
+			"testScore": {
+				"average": 77,
+				"excellentRate": 37,
+				"passRate": 92
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区义和小学校",
+			"position": "104.278433,30.709058",
+			"schoolType": "小学",
+			"schoolId": "3597",
+			"showSemeterYear": "1",
+			"teacherName": "彭清",
+			"address": "成都市龙泉驿区义和乡洪福村8组",
+			"phoneNumber": "15184371652",
+			"studentCount": "314",
+			"testScore": {
+				"average": 81,
+				"excellentRate": 68,
+				"passRate": 99
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区山泉小学校",
+			"position": "104.317054,30.535245",
+			"schoolType": "小学",
+			"schoolId": "3599",
+			"showSemeterYear": "1",
+			"teacherName": "魏丽",
+			"address": "成都市龙泉驿区新长路82号",
+			"phoneNumber": "18200252992",
+			"studentCount": "381",
+			"testScore": {
+				"average": 80.1,
+				"excellentRate": 99.48,
+				"passRate": 45.35
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区第五小学校",
+			"position": "104.250812,30.566176",
+			"schoolType": "小学",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "张倩",
+			"address": "成都市龙泉驿区南京路12",
+			"phoneNumber": "18380101021",
+			"studentCount": "2652",
+			"testScore": {
+				"average": 80,
+				"excellentRate": 99,
+				"passRate": 48
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区友谊小学校",
+			"position": "104.173891,30.658428",
+			"schoolType": "小学",
+			"schoolId": "3566",
+			"showSemeterYear": "1",
+			"teacherName": "余震",
+			"address": "成都市龙泉驿区双林街269号",
+			"phoneNumber": "18380446550",
+			"studentCount": "833",
+			"testScore": {
+				"average": 78,
+				"excellentRate": 39,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区天鹅湖小学",
+			"position": "104.189803,30.57847",
+			"schoolType": "小学",
+			"schoolId": "3570",
+			"showSemeterYear": "1",
+			"teacherName": "罗宏生",
+			"address": "",
+			"phoneNumber": "13350918185",
+			"studentCount": "0",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "四川大学附属实验小学东山学校",
+			"position": "104.248751,30.534578",
+			"schoolType": "小学",
+			"schoolId": "3645",
+			"showSemeterYear": "1",
+			"teacherName": "张老师",
+			"address": "鲸龙路1号川大附小",
+			"phoneNumber": "15100000046",
+			"studentCount": "1745",
+			"testScore": {
+				"average": 81,
+				"excellentRate": 55,
+				"passRate": 99
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区双槐中学校",
+			"position": "104.325108,30.641262",
+			"schoolType": "初中",
+			"schoolId": "3579",
+			"showSemeterYear": "1",
+			"teacherName": "张平",
+			"address": "成都市龙泉驿区槐树中街88号",
+			"phoneNumber": "13618023217",
+			"studentCount": "717",
+			"testScore": {
+				"average": 79,
+				"excellentRate": 98,
+				"passRate": 47
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区大面中学校",
+			"position": "104.189439,30.585121",
+			"schoolType": "完全中学",
+			"schoolId": "3557",
+			"showSemeterYear": "1",
+			"teacherName": "杜群",
+			"address": "成都市龙泉驿区大面上街56号",
+			"phoneNumber": "13541218020",
+			"studentCount": "316",
+			"testScore": {
+				"average": 78.1,
+				"excellentRate": 36.7,
+				"passRate": 99.37
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区第七中学校",
+			"position": "104.271268,30.558879",
+			"schoolType": "初中",
+			"schoolId": "3062",
+			"showSemeterYear": "1",
+			"teacherName": "殷照兵",
+			"address": "成都市龙泉驿区新驿南街18号",
+			"phoneNumber": "15928638185",
+			"studentCount": "1388",
+			"testScore": {
+				"average": 78.62,
+				"excellentRate": 52.76,
+				"passRate": 99.79
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区四川师大附属第一实验中学",
+			"position": "104.305851,30.615152",
+			"schoolType": "完全中学",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "张海",
+			"address": "成都市龙泉驿区忠北路555号",
+			"phoneNumber": "18010678978",
+			"studentCount": "1806",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区西江河学校",
+			"position": "104.249094,30.642726",
+			"schoolType": "九年一贯制",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "成都市龙泉驿区黄泥堰路558号",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "四川省成都市洛带中学校",
+			"position": "104.328142,30.638456",
+			"schoolType": "完全中学",
+			"schoolId": "3588",
+			"showSemeterYear": "1",
+			"teacherName": "刘健",
+			"address": "成都市龙泉驿区洛带镇八角井街185号",
+			"phoneNumber": "13558775897",
+			"studentCount": "1094",
+			"testScore": {
+				"average": 75.22,
+				"excellentRate": 29.7,
+				"passRate": 96.62
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都城投菁芙蓉驿都学校",
+			"position": "104.300946,30.585658",
+			"schoolType": "十二年一贯制",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区航天小学校",
+			"position": "104.259456,30.554836",
+			"schoolType": "小学",
+			"schoolId": "3608",
+			"showSemeterYear": "1",
+			"teacherName": "范志华",
+			"address": "龙泉驿区平江北路27号",
+			"phoneNumber": "13398171482",
+			"studentCount": "2566",
+			"testScore": {
+				"average": 80.26,
+				"excellentRate": 0,
+				"passRate": 51
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区玉石小学校",
+			"position": "104.179206,30.606644",
+			"schoolType": "小学",
+			"schoolId": "3561",
+			"showSemeterYear": "1",
+			"teacherName": "陈道坤",
+			"address": "成都市龙泉驿区大面街办分水村十组",
+			"phoneNumber": "15902835716",
+			"studentCount": "728",
+			"testScore": {
+				"average": 82,
+				"excellentRate": 65,
+				"passRate": 99
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区灵龙小学校",
+			"position": "104.174132,30.655306",
+			"schoolType": "小学",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "郑祥勇",
+			"address": "成都市龙泉驿区灵龙路",
+			"phoneNumber": "13688368914",
+			"studentCount": "1661",
+			"testScore": {
+				"average": 75,
+				"excellentRate": 47.71,
+				"passRate": 94.66
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区洪安小学校",
+			"position": "104.325017,30.697254",
+			"schoolType": "小学",
+			"schoolId": "3616",
+			"showSemeterYear": "1",
+			"teacherName": "方丽",
+			"address": "成都市龙泉驿区洪安镇化工新村14组",
+			"phoneNumber": "13548121289",
+			"studentCount": "473",
+			"testScore": {
+				"average": 76.72,
+				"excellentRate": 37.66,
+				"passRate": 93.94
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区十陵小学校",
+			"position": "104.184401,30.65074",
+			"schoolType": "小学",
+			"schoolId": "3559",
+			"showSemeterYear": "1",
+			"teacherName": "彭斌",
+			"address": "成都市龙泉驿区十陵上街20号",
+			"phoneNumber": "15982827929",
+			"studentCount": "1643",
+			"testScore": {
+				"average": 77.75,
+				"excellentRate": 35.50,
+				"passRate": 98.22
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区西河小学校",
+			"position": "104.234205,30.652341",
+			"schoolType": "小学",
+			"schoolId": "3552",
+			"showSemeterYear": "1",
+			"teacherName": "王安",
+			"address": "龙泉驿区西河镇树人街19号",
+			"phoneNumber": "13547820751",
+			"studentCount": "2320",
+			"testScore": {
+				"average": 77,
+				"excellentRate": 41,
+				"passRate": 96
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区龙华小学校",
+			"position": "104.173263,30.565201",
+			"schoolType": "小学",
+			"schoolId": "3553",
+			"showSemeterYear": "1",
+			"teacherName": "王欢",
+			"address": "龙泉驿区大面街道车城西四路362号",
+			"phoneNumber": "13688077031",
+			"studentCount": "2735",
+			"testScore": {
+				"average": 78.05,
+				"excellentRate": 40.95,
+				"passRate": 97.95
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区天平小学校",
+			"position": "104.24901,30.660533",
+			"schoolType": "小学",
+			"schoolId": "3580",
+			"showSemeterYear": "1",
+			"teacherName": "梁燕",
+			"address": "天平路与老成洛路交叉口南100米",
+			"phoneNumber": "18123383039",
+			"studentCount": "361",
+			"testScore": {
+				"average": 78,
+				"excellentRate": 0,
+				"passRate": 98
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "四川师范大学附属青台山小学",
+			"position": "104.206779,30.573238",
+			"schoolType": "小学",
+			"schoolId": "3554",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区跃进小学校",
+			"position": "104.221604,30.654133",
+			"schoolType": "小学",
+			"schoolId": "3589",
+			"showSemeterYear": "1",
+			"teacherName": "蒲云建",
+			"address": "成都市龙泉驿区西河镇广益西路225号",
+			"phoneNumber": "15208272358",
+			"studentCount": "1498",
+			"testScore": {
+				"average": 77,
+				"excellentRate": 33,
+				"passRate": 97
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区西河中学校",
+			"position": "104.265647,30.643088",
+			"schoolType": "完全中学",
+			"schoolId": "3047",
+			"showSemeterYear": "1",
+			"teacherName": "唐志海",
+			"address": "西河镇岐城街36号",
+			"phoneNumber": "15882257331",
+			"studentCount": "1850",
+			"testScore": {
+				"average": 87,
+				"excellentRate": 96,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区洪河中学校 ",
+			"position": "104.173389,30.612658",
+			"schoolType": "初中",
+			"schoolId": "3573",
+			"showSemeterYear": "1",
+			"teacherName": "赵婷",
+			"address": "龙泉驿区大面街道玉石社区13组",
+			"phoneNumber": "13541228407",
+			"studentCount": "761",
+			"testScore": {
+				"average": 79.8,
+				"excellentRate": 54.1,
+				"passRate": 96.86
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区第六中学校",
+			"position": "104.263284,30.555601",
+			"schoolType": "初中",
+			"schoolId": "3598",
+			"showSemeterYear": "1",
+			"teacherName": "刘大君",
+			"address": "万源路177号",
+			"phoneNumber": "13547831220",
+			"studentCount": "1738",
+			"testScore": {
+				"average": 77.59,
+				"excellentRate": 8,
+				"passRate": 94
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区青苗学校",
+			"position": "104.166647,30.610779",
+			"schoolType": "小学",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "王宇",
+			"address": "四川省成都市龙泉驿区洪河大道中路351号",
+			"phoneNumber": "15100000037",
+			"studentCount": "90",
+			"testScore": {
+				"average": 83.79,
+				"excellentRate": 11,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区新格林公学学校",
+			"position": "104.164307,30.612593",
+			"schoolType": "九年一贯制",
+			"schoolId": "3577",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都经济技术开发区实验中学校",
+			"position": "104.257356,30.580437",
+			"schoolType": "完全中学",
+			"schoolId": "3543",
+			"showSemeterYear": "1",
+			"teacherName": "黄鸽",
+			"address": "成都市龙泉驿区书房村",
+			"phoneNumber": "13982179511",
+			"studentCount": "2287",
+			"testScore": {
+				"average": 74.58,
+				"excellentRate": 32,
+				"passRate": 92
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都汽车职业技术学校",
+			"position": "104.29157,30.613073",
+			"schoolType": "中职",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "4957",
+			"testScore": {
+				"average": 80.58,
+				"excellentRate": 97.20,
+				"passRate": 55.95
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区实验小学校",
+			"position": "104.279594,30.561635",
+			"schoolType": "小学",
+			"schoolId": "2659",
+			"showSemeterYear": "1",
+			"teacherName": "米鹏",
+			"address": "四川省成都市龙泉驿区文明东街36号",
+			"phoneNumber": "13699024186",
+			"studentCount": "3129",
+			"testScore": {
+				"average": 80,
+				"excellentRate": 50,
+				"passRate": 98
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区洪河小学校",
+			"position": "104.161313,30.613506",
+			"schoolType": "小学",
+			"schoolId": "3547",
+			"showSemeterYear": "1",
+			"teacherName": "郑炼",
+			"address": "龙泉驿区大面街道富桥街1号附1号",
+			"phoneNumber": "13982297955",
+			"studentCount": "2140",
+			"testScore": {
+				"average": 78.61,
+				"excellentRate": 45,
+				"passRate": 99
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区青龙湖小学校",
+			"position": "104.212754,30.627274",
+			"schoolType": "小学",
+			"schoolId": "3587",
+			"showSemeterYear": "1",
+			"teacherName": "毛敬",
+			"address": "成都市龙泉驿区十陵街道大梁村25组402号",
+			"phoneNumber": "13648087201",
+			"studentCount": "533",
+			"testScore": {
+				"average": 76.66,
+				"excellentRate": 35,
+				"passRate": 99
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区第四小学校",
+			"position": "104.248355,30.532069",
+			"schoolType": "小学",
+			"schoolId": "3576",
+			"showSemeterYear": "1",
+			"teacherName": "张海猛",
+			"address": "成都市龙泉驿区柏合镇黎明村1组",
+			"phoneNumber": "13228219607",
+			"studentCount": "2372",
+			"testScore": {
+				"average": 83.13,
+				"excellentRate": 65,
+				"passRate": 99
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区第三小学校",
+			"position": "104.265234,30.551277",
+			"schoolType": "小学",
+			"schoolId": "3556",
+			"showSemeterYear": "1",
+			"teacherName": "文海洪",
+			"address": "成都市龙泉驿区长柏路310号",
+			"phoneNumber": "18980489479",
+			"studentCount": "2253",
+			"testScore": {
+				"average": 77.05,
+				"excellentRate": 4,
+				"passRate": 96
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区长松小学校",
+			"position": "104.281789,30.520842",
+			"schoolType": "小学",
+			"schoolId": "3650",
+			"showSemeterYear": "1",
+			"teacherName": "刘刘",
+			"address": "长松村一组70号龙泉驿区长松2小学校",
+			"phoneNumber": "15100000062",
+			"studentCount": "157",
+			"testScore": {
+				"average": 80,
+				"excellentRate": 55,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区客家小学校",
+			"position": "104.32561,30.647039",
+			"schoolType": "小学",
+			"schoolId": "3595",
+			"showSemeterYear": "1",
+			"teacherName": "刘老师",
+			"address": "成都市龙泉驿区洛带镇柏杨街28号",
+			"phoneNumber": "15100000020",
+			"studentCount": "839",
+			"testScore": {
+				"average": 79.72,
+				"excellentRate": 47,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区向阳桥小学",
+			"position": "104.230961,30.575311",
+			"schoolType": "小学",
+			"schoolId": "3581",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都大学附属小学",
+			"position": "104.201515,30.653561",
+			"schoolType": "小学",
+			"schoolId": "3555",
+			"showSemeterYear": "1",
+			"teacherName": "",
+			"address": "",
+			"phoneNumber": "",
+			"studentCount": "",
+			"testScore": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区第一小学校",
+			"position": "104.274703,30.558641",
+			"schoolType": "小学",
+			"schoolId": "3562",
+			"showSemeterYear": "1",
+			"teacherName": "宋娟容",
+			"address": "成都市龙泉驿区新驿北街18号",
+			"phoneNumber": "13568900304",
+			"studentCount": "1793",
+			"testScore": {
+				"average": 89.48,
+				"excellentRate": 43,
+				"passRate": 99
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区柏合九年制学校",
+			"position": "104.206652,30.507113",
+			"schoolType": "九年一贯制",
+			"schoolId": "3590",
+			"showSemeterYear": "1",
+			"teacherName": "李春",
+			"address": "柏合镇柏华路62号",
+			"phoneNumber": "13880634685",
+			"studentCount": "922",
+			"testScore": {
+				"average": 78,
+				"excellentRate": 40,
+				"passRate": 97
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "成都市龙泉驿区洪安中学校",
+			"position": "104.32272,30.696197",
+			"schoolType": "初中",
+			"schoolId": "3593",
+			"showSemeterYear": "2",
+			"teacherName": "卢燕",
+			"address": "成都市龙泉驿区洪安镇化工新村24组211号",
+			"phoneNumber": "15884576536",
+			"studentCount": "359",
+			"testScore": {
+				"average": 81,
+				"excellentRate": 61,
+				"passRate": 98
+			},
+			"subjectEvaluation": {
+				"average": 88.4,
+				"excellentRate": 94.38,
+				"passRate": 100
+			}
+		},
+		{
+			"schoolName": "北大成都附属实验学校",
+			"position": "104.186766,30.57186",
+			"schoolType": "十二年一贯制",
+			"schoolId": "3584",
+			"showSemeterYear": "1",
+			"teacherName": "胥斌",
+			"address": "成都市龙泉驿区大面街道金茶路500号",
+			"phoneNumber": "15882096121",
+			"studentCount": "1876",
+			"testScore": {
+				"average": 83.59,
+				"excellentRate": 75,
+				"passRate": 100
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "四川师范大学附属青台山中学",
+			"position": "104.206786,30.573227",
+			"schoolType": "初中",
+			"schoolId": "3582",
+			"showSemeterYear": "2",
+			"teacherName": "罗永利",
+			"address": "成都市龙泉驿区井山路88号",
+			"phoneNumber": "17380097726",
+			"studentCount": "423",
+			"testScore": {
+				"average": 80,
+				"excellentRate": 92.43,
+				"passRate": 98.82
+			},
+			"subjectEvaluation": {
+				"average": 88,
+				"excellentRate": 86,
+				"passRate": 55
+			}
+		},
+		{
+			"schoolName": "四川省成都市龙泉中学校",
+			"position": "104.246346,30.531978",
+			"schoolType": "完全中学",
+			"schoolId": "3586",
+			"showSemeterYear": "1",
+			"teacherName": "周黎",
+			"address": "四川省成都市龙泉驿区鲸龙路1057号",
+			"phoneNumber": "13981856608",
+			"studentCount": "2638",
+			"testScore": {
+				"average": 78.71,
+				"excellentRate": 47,
+				"passRate": 98
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		},
+		{
+			"schoolName": "四川省成都市航天中学校",
+			"position": "104.171113,30.564696",
+			"schoolType": "完全中学",
+			"schoolId": "",
+			"showSemeterYear": "1",
+			"teacherName": "陈勇",
+			"address": "四川省成都市龙泉驿区大面街道车城西4路111号",
+			"phoneNumber": "13688006457",
+			"studentCount": "3265",
+			"testScore": {
+				"average": 78,
+				"excellentRate": 49,
+				"passRate": 96
+			},
+			"subjectEvaluation": {
+				"average": 0,
+				"excellentRate": 0,
+				"passRate": 0
+			}
+		}
+	]
+}
